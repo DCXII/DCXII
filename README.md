@@ -1,17 +1,35 @@
-<**!-- CYBERPUNK-PROFESSIONAL GITHUB PROFILE: DCXII -->
+
+<link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+<style>
+  body {
+    font-family: 'Orbitron', 'Share Tech Mono', monospace;
+    color: #cfcaf2;
+    background-color: #0D0D12;
+  }
+  h1, h2, h3, strong {
+    font-family: 'Orbitron', sans-serif;
+    color: #7B61FF;
+  }
+  p, a, code, em {
+    font-family: 'Share Tech Mono', monospace;
+  }
+</style>
 
 <div align="center">
-  <img src="https://github.com/dcxii.png" width="172" style="border-radius: 100%; border: 5px solid #7B61FF; box-shadow: 0 0 28px #7B61FF;" alt="avatar" />
+  <img src="https://github.com/dcxii.png" width="180" style="border-radius: 50%; border: 4px solid #7B61FF; box-shadow: 0 0 30px #7B61FF;" alt="avatar" />
 </div>
 
 <div align="center">
-  <strong>Cybersecurity Researcher | IoT Developer | Web Engineer | Educator</strong>
-
-  <p style="max-width:760px; margin:8px auto 0; color:#cfcaf2">
+  <h2>Cybersecurity Researcher | IoT Developer | Web Engineer | Educator</h2>
+  <p style="max-width:760px; margin:8px auto 0;">
   I focus on building resilient systems, teaching practical security, and creating web tools that scale. I lead hands-on workshops and events that introduce students to defensive and offensive security through approachable challenges.
   </p>
 </div>
-**
+
+---
+
+
 ---
 
 ### About
