@@ -41,8 +41,6 @@
 I build resilient systems and teach practical security. I lead hands-on workshops and create web tools that scale — blending research, IoT, and education.
 </p>
 
----
-
 ### About
 
 ```bash
@@ -54,8 +52,6 @@ Head of IoT & Cybersecurity Research Group
 Founder (Graed) — EdTech platform prototype
 Educator — 1:1 and group instruction in CS, security, and web development
 ```
-
----
 
 ### Tech Arsenal
 
@@ -73,7 +69,6 @@ Educator — 1:1 and group instruction in CS, security, and web development
   <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
 </div>
 
----
 
 ### Connect
 
@@ -82,12 +77,6 @@ Educator — 1:1 and group instruction in CS, security, and web development
   <a href="https://linkedin.com/in/dcxii"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-3B2E8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="https://leetcode.com/zidbis"><img src="https://img.shields.io/badge/LeetCode-zidbis-7B61FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>
   <a href="https://dcxii.github.io"><img src="https://img.shields.io/badge/Portfolio-dcxii.github.io-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" /></a>
-</div>
-
----
-
-<div align="center" style="color:#cfcaf2">
-  <em>Temet Nosce</em>
 </div>
 
 <div align="center">
