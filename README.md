@@ -11,7 +11,7 @@
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 
-╭─ dcxii@github ~ 
+╭─(dcxii@github)-[~]
 ╰─$ whoami
 dcxii@github.com
 ~/.config/user/profile.conf
@@ -23,7 +23,7 @@ status          = "ONLINE"
 email           = "carpemoart.612@gmail.com"
 motto           = "Temet Nosce"
 
-╭─ dcxii@github ~ 
+╭─(dcxii@github)-[~]
 ╰─$ neofetch --backend ascii --tech-stack
 
 [LANGUAGES & FRAMEWORKS]
@@ -43,14 +43,15 @@ motto           = "Temet Nosce"
 └── Security Tools[███████████████████████░] Expert
                    └── Wireshark • Nmap • Burp Suite
                        Metasploit • Aircrack-ng
-╭─ dcxii@github ~ 
+
+╭─(dcxii@github)-[~]
 ╰─$ cat ~/public/contact/*.txt
 
 [EMAIL]     carpemoart.612@gmail.com
 [LEETCODE]  https://leetcode.com/zidbis
 [PORTFOLIO] https://dcxii.github.io
 
-╭─ dcxii@github ~ 
+╭─(dcxii@github)-[~]
 ╰─$ fortune 
 
               T               h                       e  q
