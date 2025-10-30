@@ -18,7 +18,7 @@
 </style>
 
 <div align="center">
-  <img src="https://github.com/dcxii.png" width="180" style="border-radius: 50%; border: 4px solid #7B61FF; box-shadow: 0 0 30px #7B61FF;" alt="avatar" />
+  <img src="https://github.com/dcxii.png" width="180" style="border-radius: 50%; border: 5px solid #7B61FF; box-shadow: 0 0 30px #7B61FF;" alt="avatar" />
 </div>
 
 <div align="center">
@@ -41,7 +41,6 @@ Head of IoT & Cybersecurity Research Group
 Founder (Graed) — EdTech platform prototype
 Educator — 1:1 and group instruction in CS, security, and web development
 ```
-
 
 ---
 
