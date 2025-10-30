@@ -11,6 +11,7 @@
 │                   A N N U I T   C O E P T I S                      │
 │                                                                    │
 └────────────────────────────────────────────────────────────────────┘
+
 ╭─(dcxii@github)-[~]
 ╰─$ whoami
 dcxii@github.com
@@ -64,7 +65,7 @@ u                ieter    y                           o  ub
                           5
                            5
 
-╭─ dcxii@github ~ 
+╭─(dcxii@github)-[~]
 ╰─$ exit
 
 [Process completed - Press any key to reconnect]
