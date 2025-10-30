@@ -1,20 +1,51 @@
-<<!-- CYBERPUNK-PROFESSIONAL GITHUB PROFILE: DCXII -->
+<!-- CYBERPUNK-PROFESSIONAL GITHUB PROFILE: DCXII -->
 
 <div align="center">
-  <img src="https://github.com/dcxii.png" width="180" style="border-radius:50%;border:4px solid #7B61FF;box-shadow:0 0 30px #7B61FF;" alt="avatar" />
+
+<!-- Inline SVG avatar with neon purple glow -->
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DCXII avatar with neon glow">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="halo" cx="50%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#7B61FF" stop-opacity="0.85"/>
+      <stop offset="45%" stop-color="#7B61FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#7B61FF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="avatarClip">
+      <circle cx="120" cy="120" r="94"/>
+    </clipPath>
+  </defs>
+
+  <!-- halo -->
+  <circle cx="120" cy="120" r="116" fill="url(#halo)"/>
+
+  <!-- avatar image clipped to circle -->
+  <g filter="url(#glow)">
+    <image href="https://github.com/dcxii.png" x="26" y="26" width="188" height="188" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
+    <!-- subtle inner ring -->
+    <circle cx="120" cy="120" r="96" fill="none" stroke="#ffffff22" stroke-width="2"/>
+  </g>
+</svg>
+
 </div>
 
-<h2 align="center" style="color:#7B61FF;">CYBERSECURITY RESEARCHER | IOT DEVELOPER | WEB ENGINEER | EDUCATOR</h2>
+<h2 align="center">DCXII — <span style="color:#7B61FF">Cybersecurity, IoT &amp; Web Enthusiast</span></h2>
 
 <p align="center" style="max-width:760px;color:#cfcaf2;">
-I focus on building resilient systems, teaching practical security, and creating web tools that scale. I lead hands-on workshops and events that introduce students to defensive and offensive security through approachable challenges.
+I build resilient systems and teach practical security. I lead hands-on workshops and create web tools that scale — blending research, IoT, and education.
 </p>
 
 ---
 
 ### About
 
-```
+```bash
 $ whoami
 DCXII
 
@@ -44,6 +75,29 @@ Educator — 1:1 and group instruction in CS, security, and web development
 
 ---
 
+### Activity Monitor
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dcxii&show_icons=true&theme=vue&hide_border=true&title_color=7B61FF&icon_color=7B61FF&bg_color=0D0D12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dcxii&theme=dark&background=0D0D12&hide_border=true&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcxii&layout=compact&theme=vue&hide_border=true&bg_color=0D0D12&title_color=7B61FF" width="50%" />
+</div>
+
+---
+
+### System Status
+
+<div align="center" style="color:#dcd6ff; font-family: monospace;">
+  <p>🟢 <strong>In the Grid</strong> — Researching &amp; Building Smarter Systems</p>
+  <p>⚙️ <strong>Compiling Knowledge</strong> — Teaching, Learning, and Refining Skills</p>
+  <p>🟣 <strong>Running Defense Protocols</strong> — Exploring Cybersecurity at the Core</p>
+</div>
+
+---
+
 ### Connect
 
 <div align="center">
@@ -56,6 +110,9 @@ Educator — 1:1 and group instruction in CS, security, and web development
 ---
 
 <div align="center" style="color:#cfcaf2">
-  <em>Temet Nosce</em><br/>
+  <em>Temet Nosce</em>
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=54&section=footer" alt="footer" />
 </div>
