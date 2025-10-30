@@ -1,12 +1,6 @@
 <!-- CYBERPUNK-PROFESSIONAL GITHUB PROFILE: DCXII -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=2500&color=7B61FF&center=true&vCenter=true&width=880&lines=DCXII+--+Cybersecurity,+IoT+%26+Web+Enthusiast;Building+Smarter,+Safer+Systems" alt="Typing SVG" />
-</div>
-
----
-
-<div align="center">
   <img src="https://github.com/dcxii.png" width="172" style="border-radius: 100%; border: 5px solid #7B61FF; box-shadow: 0 0 28px #7B61FF;" alt="avatar" />
 </div>
 
