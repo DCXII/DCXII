@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/dcxii.png" width="172" style="border-radius: 50%; border: 20px solid #7B61FF; box-shadow: 0 0 28px #7B61FF;" alt="avatar" />
+  <img src="https://github.com/dcxii.png" width="172" style="border-radius: 100%; border: 5px solid #7B61FF; box-shadow: 0 0 28px #7B61FF;" alt="avatar" />
 </div>
 
 <div align="center">
@@ -64,6 +64,6 @@ Educator — 1:1 and group instruction in CS, security, and web development
 ---
 
 <div align="center" style="color:#cfcaf2">
-  <em>Temet Nosce</em>
+  <em>Temet Nosce</em></br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=54&section=footer" alt="footer" />
 </div>
