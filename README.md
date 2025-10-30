@@ -52,33 +52,6 @@ Educator — 1:1 and group instruction in CS, security, and web development
 
 ---
 
-### Activity Monitor
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&color=7B61FF&center=true&vCenter=true&width=600&lines=Monitoring+System+Activity...;Fetching+Live+GitHub+Data...;Status:+Stable+and+Operational" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dcxii&show_icons=true&theme=vue&hide_border=true&title_color=7B61FF&icon_color=7B61FF&bg_color=0D0D12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dcxii&theme=dark&background=0D0D12&hide_border=true&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcxii&layout=compact&theme=vue&hide_border=true&bg_color=0D0D12&title_color=7B61FF" width="50%" />
-</div>
-
----
-
-### System Status
-
-<div align="center" style="color:#dcd6ff; font-family: 'Share Tech Mono', monospace;">
-  <p>🟢 <b>In the Grid</b> — Researching & Building Smarter Systems</p>
-  <p>⚙️ <b>Compiling Knowledge</b> — Teaching, Learning, and Refining Skills</p>
-  <p>🟣 <b>Running Defense Protocols</b> — Exploring Cybersecurity at the Core</p>
-</div>
-
----
-
 ### Connect
 
 <div align="center">
@@ -89,10 +62,8 @@ Educator — 1:1 and group instruction in CS, security, and web development
 
 ---
 
-### Statement
-
 <div align="center" style="color:#cfcaf2">
-  <em>Security is an iterative craft: design with intent, test with rigor, teach with patience.</em>
+  <em>Temet Nosce</em>
 </div>
 
 ---
