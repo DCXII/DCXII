@@ -53,6 +53,7 @@ motto           = "Temet Nosce"
 
 ╭─(dcxii@github)-[~]
 ╰─$ fortune | cowsay -f dcxii
+
               T               h                       e  q
 u                ieter    y                           o  ub		
                     eco me,     th                   emo
