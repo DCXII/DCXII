@@ -1,84 +1,183 @@
-<!-- CYBERPUNK-PROFESSIONAL GITHUB PROFILE: DCXII -->
+<!-- CYBERPUNK GITHUB PROFILE: DCXII -->
 
 <div align="center">
 
-<!-- Inline SVG avatar with neon purple glow -->
+<!-- Inline SVG avatar with enhanced neon purple glow -->
 <svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DCXII avatar with neon glow">
   <defs>
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="12" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
     <radialGradient id="halo" cx="50%" cy="40%" r="60%">
-      <stop offset="0%" stop-color="#7B61FF" stop-opacity="0.85"/>
-      <stop offset="45%" stop-color="#7B61FF" stop-opacity="0.35"/>
+      <stop offset="0%" stop-color="#7B61FF" stop-opacity="1"/>
+      <stop offset="45%" stop-color="#B84FFF" stop-opacity="0.5"/>
       <stop offset="100%" stop-color="#7B61FF" stop-opacity="0"/>
     </radialGradient>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7B61FF"/>
+      <stop offset="50%" stop-color="#FF10F0"/>
+      <stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
     <clipPath id="avatarClip">
       <circle cx="120" cy="120" r="94"/>
     </clipPath>
   </defs>
 
+  <!-- Outer pulsing ring -->
+  <circle cx="120" cy="120" r="118" fill="none" stroke="url(#ring)" stroke-width="3" opacity="0.6"/>
+  
   <!-- halo -->
   <circle cx="120" cy="120" r="116" fill="url(#halo)"/>
 
   <!-- avatar image clipped to circle -->
   <g filter="url(#glow)">
     <image href="https://github.com/dcxii.png" x="26" y="26" width="188" height="188" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid slice"/>
-    <!-- subtle inner ring -->
-    <circle cx="120" cy="120" r="96" fill="none" stroke="#ffffff22" stroke-width="2"/>
+    <!-- Neon border ring -->
+    <circle cx="120" cy="120" r="96" fill="none" stroke="#7B61FF" stroke-width="3" opacity="0.8"/>
+    <circle cx="120" cy="120" r="92" fill="none" stroke="#FF10F0" stroke-width="1" opacity="0.4"/>
   </g>
 </svg>
 
+<br/>
+
+```
+██████╗  ██████╗██╗  ██╗██╗██╗
+██╔══██╗██╔════╝╚██╗██╔╝██║██║
+██║  ██║██║      ╚███╔╝ ██║██║
+██║  ██║██║      ██╔██╗ ██║██║
+██████╔╝╚██████╗██╔╝ ██╗██║██║
+╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝╚═╝
+```
+
 </div>
 
-<h2 align="center">DCXII <span style="color:#7B61FF"></span></h2>
-<h3 align="center" style="max-width:760px;color:#cfcaf2;">Annuit cœptis</h3>
-<p align="center" style="max-width:760px;color:#cfcaf2;">
-I build resilient systems and teach practical security. I lead hands-on workshops and create web tools that scale — blending research, IoT, and education.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7B61FF&center=true&vCenter=true&multiline=false&width=600&height=60&lines=Annuit+cœptis;Building+Resilient+Systems;Teaching+Practical+Security" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF41?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0D1117" alt="status"/>
+  <img src="https://img.shields.io/badge/ROLE-IoT%20%26%20Security%20Research-7B61FF?style=for-the-badge&labelColor=0D1117" alt="role"/>
+  <img src="https://img.shields.io/badge/FOCUS-EdTech%20%7C%20Web%20Systems-FF10F0?style=for-the-badge&labelColor=0D1117" alt="focus"/>
 </p>
+
+---
 
 ### About
 
-```bash
-$ whoami
-DCXII
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJkb3BwNW93cjJlajV4ZTcyZm1vOHZ5YzZpYXI0M3J1dHN3ZW9pdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding"/>
 
-$ roles
-Head of IoT & Cybersecurity Research Group
-Founder (Graed) — EdTech platform prototype
-Educator — 1:1 and group instruction in CS, security, and web development
+```python
+class DCXII:
+    def __init__(self):
+        self.username = "DCXII"
+        self.role = "Head of IoT & Cybersecurity Research"
+        self.projects = ["Graed EdTech Platform", "Security Workshops"]
+        self.location = "Cyber Space"
+    
+    def current_focus(self):
+        return [
+            "Building resilient systems",
+            "Teaching practical security",
+            "Creating scalable web tools",
+            "IoT security research"
+        ]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something secure.")
+
+me = DCXII()
+me.say_hi()
 ```
+
+---
 
 ### Tech Arsenal
 
 <div align="center">
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" /></a>
-  <a href="https://www.kernel.org/linux.html" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+
+#### Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117" alt="python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" alt="javascript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" alt="react"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117" alt="nodejs"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" alt="html"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" alt="css"/>
+</p>
+
+#### Tools & Systems
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117" alt="linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" alt="docker"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117" alt="vscode"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" alt="mysql"/>
+</p>
+
 </div>
 
+---
 
-### Connect
+### GitHub Analytics
 
 <div align="center">
-  <a href="mailto:carpemoart.612@gmail.com"><img src="https://img.shields.io/badge/Email-carpemoart.612@gmail.com-7B61FF?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://linkedin.com/in/dcxii"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-3B2E8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a href="https://leetcode.com/zidbis"><img src="https://img.shields.io/badge/LeetCode-zidbis-7B61FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>
-  <a href="https://dcxii.github.io"><img src="https://img.shields.io/badge/Portfolio-dcxii.github.io-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" /></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dcxii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B61FF&icon_color=7B61FF&text_color=c9d1d9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcxii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B61FF&text_color=c9d1d9" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=54&section=footer" alt="footer" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dcxii&theme=tokyonight&hide_border=true&background=0D1117&ring=7B61FF&fire=FF10F0&currStreakLabel=7B61FF" alt="GitHub Streak"/>
+</div>
+
+---
+
+### Current Missions
+
+```javascript
+const missions = {
+  security: "Leading IoT & Cybersecurity Research",
+  education: "Building Graed EdTech Platform",
+  development: "Creating scalable web applications",
+  workshops: "Teaching hands-on security practices"
+};
+```
+
+---
+
+### Connect With Me
+
+<div align="center">
+  <a href="mailto:carpemoart.612@gmail.com">
+    <img src="https://img.shields.io/badge/Email-carpemoart.612@gmail.com-7B61FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email"/>
+  </a>
+  <a href="https://linkedin.com/in/dcxii">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="linkedin"/>
+  </a>
+  <a href="https://leetcode.com/zidbis">
+    <img src="https://img.shields.io/badge/LeetCode-zidbis-FF10F0?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" alt="leetcode"/>
+  </a>
+  <a href="https://dcxii.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="portfolio"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dcxii&color=7B61FF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+</div>
+
+---
+
+<div align="center">
+
+### "The quieter you become, the more you can hear."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,24,1,30&height=120&section=footer&text=DCXII&fontSize=40&fontColor=7B61FF&animation=twinkling&fontAlignY=75" alt="footer"/>
+
 </div>
