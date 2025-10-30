@@ -57,6 +57,7 @@ Educator — 1:1 and group instruction in CS, security, and web development
 <div align="center">
   <a href="mailto:carpemoart.612@gmail.com"><img src="https://img.shields.io/badge/Email-carpemoart.612@gmail.com-7B61FF?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://linkedin.com/in/dcxii"><img src="https://img.shields.io/badge/LinkedIn-LinkedIn-3B2E8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+ <a href="https://leetcode.com/zidbis"><img src="https://img.shields.io/badge/LeetCode-zidbis-7B61FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>
   <a href="https://dcxii.github.io"><img src="https://img.shields.io/badge/Portfolio-dcxii.github.io-7B61FF?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" /></a>
 </div>
 
