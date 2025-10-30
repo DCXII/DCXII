@@ -35,7 +35,7 @@
 
 </div>
 
-<h2 align="center">DCXII — <span style="color:#7B61FF">Cybersecurity, IoT &amp; Web Enthusiast</span></h2>
+<h2 align="center">DCXII <span style="color:#7B61FF">Cybersecurity, IoT &amp; Web Enthusiast</span></h2>
 
 <p align="center" style="max-width:760px;color:#cfcaf2;">
 I build resilient systems and teach practical security. I lead hands-on workshops and create web tools that scale — blending research, IoT, and education.
