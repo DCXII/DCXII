@@ -1,3 +1,4 @@
+<!-- CYBERPUNK-PROFESSIONAL GITHUB PROFILE: DCXII -->
 
 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;600&family=Share+Tech+Mono&display=swap" rel="stylesheet">
 
@@ -26,9 +27,6 @@
   I focus on building resilient systems, teaching practical security, and creating web tools that scale. I lead hands-on workshops and events that introduce students to defensive and offensive security through approachable challenges.
   </p>
 </div>
-
----
-
 
 ---
 
