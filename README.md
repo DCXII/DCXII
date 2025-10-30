@@ -1,14 +1,12 @@
 ```
-                 _   _       _ _ _     ____              
-    /\          | | (_)     (_) | |   / ____|             
-   /  \   _ __  | |_ _ _ __  _| | |_ | |     ___  _ __ ___
-  / /\ \ | '_ \ | __| | '_ \| | | __|| |    / _ \| '__/ _ \
- / ____ \| | | || |_| | | | | | | |_ | |___| (_) | | |  __/
-/_/    \_\_| |_| \__|_|_| |_|_|_|\__(_)_____\___/|_|  \___|
-                                                            
-                         A N N U I T   C O E P T I S
+│                  ██████╗  ██████╗██╗  ██╗██╗██╗          
+│                  ██╔══██╗██╔════╝╚██╗██╔╝██║██║        
+│                  ██║  ██║██║      ╚███╔╝ ██║██║          
+│                  ██║  ██║██║      ██╔██╗ ██║██║        
+│                  ██████╔╝╚██████╗██╔╝ ██╗██║██║          
+│                  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝╚═╝    
+                     A N N U I T   C O E P T I S
 ──────────────────────────────────────────────────────────────
-
 dcxii@github.com
 ──────────────────────────────────────────────────────────────
 OS: Arch Linux (x86_64)
@@ -26,7 +24,7 @@ Memory: 612MB / 612GB
 
 ──────────────────────────────────────────────────────────────
 ~/.config/user/profile.conf
-──────────────────────────────────────────────────────────────
+
 [USER_INFO]
 username        = "DCXII"
 role            = "Cybersecurity & Web Systems Engineer"
@@ -34,9 +32,8 @@ status          = "ONLINE"
 email           = "carpemoart.612@gmail.com"
 motto           = "Annuit Coeptis"
 
-──────────────────────────────────────────────────────────────
 $ neofetch --backend ascii --tech-stack
-──────────────────────────────────────────────────────────────
+
 [LANGUAGES & FRAMEWORKS]
 ├── Python        [███████████████████████░] 95%
 ├── JavaScript    [████████████████████░░░] 90%
@@ -53,9 +50,8 @@ $ neofetch --backend ascii --tech-stack
 ├── MySQL         [██████████████████░░░░░] Advanced
 └── Security Tools[███████████████████████░] Expert
 
-──────────────────────────────────────────────────────────────
 $ systemctl status github-activity.service
-──────────────────────────────────────────────────────────────
+
 ● github-activity.service - GitHub Statistics Monitor
    Loaded: loaded (/etc/systemd/system/github-activity.service; enabled)
    Active: active (running) since boot
