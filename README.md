@@ -35,8 +35,8 @@
 
 </div>
 
-<h2 align="center">DCXII <span style="color:#7B61FF"><br>Annuit cœptis</span></h2>
-
+<h2 align="center">DCXII <span style="color:#7B61FF"></span></h2>
+<h3 align="center" style="max-width:760px;color:#cfcaf2;">Annuit cœptis</h3>
 <p align="center" style="max-width:760px;color:#cfcaf2;">
 I build resilient systems and teach practical security. I lead hands-on workshops and create web tools that scale — blending research, IoT, and education.
 </p>
