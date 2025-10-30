@@ -52,14 +52,13 @@ motto           = "Temet Nosce"
 [PORTFOLIO] https://dcxii.github.io
 
 ╭─(dcxii@github)-[~]
-╰─$ fortune 
-
+╰─$ fortune | cowsay -f dcxii
               T               h                       e  q
-u                ieter    y                            o  ub		
-                    eco me,     th                    emo
+u                ieter    y                           o  ub		
+                    eco me,     th                   emo
      r    e              y                         ouc
                          a               n
-          h              e                ar.
+          h              e              a   r.
            -R    4       m              _   D4
                           5
                            5
