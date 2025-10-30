@@ -43,36 +43,28 @@ motto           = "Temet Nosce"
 └── Security Tools[███████████████████████░] Expert
                    └── Wireshark • Nmap • Burp Suite
                        Metasploit • Aircrack-ng
+╭─ dcxii@github ~ 
+╰─$ cat ~/public/contact/*.txt
+
+[EMAIL]     carpemoart.612@gmail.com
+[LEETCODE]  https://leetcode.com/zidbis
+[PORTFOLIO] https://dcxii.github.io
 
 ╭─ dcxii@github ~ 
-╰─$ ls ~/public/contact/
+╰─$ fortune 
 
-```
-
-[EMAIL]     [carpemoart.612@gmail.com](mailto:carpemoart.612@gmail.com)  
-[LEETCODE]  [https://leetcode.com/zidbis](https://leetcode.com/zidbis)  
-[PORTFOLIO] [https://dcxii.github.io](https://dcxii.github.io)
-
-```
-
-╭─ dcxii@github ~ 
-╰─$ fortune | cowsay -f tux
-
- ________________________________________
-/ "The quieter you become, the more you \
-\ can hear."                            /
- ----------------------------------------
-   \
-    \
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
+              T               h                       e  q
+u                ieter    y                            o  ub		
+                    eco me,     th                    emo
+     r    e              y                         ouc
+                         a               n
+          h              e                ar.
+           -R    4       m              _   D4
+                          5
+                           5
 
 ╭─ dcxii@github ~ 
 ╰─$ exit
+
 [Process completed - Press any key to reconnect]
 ```
