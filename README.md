@@ -1,14 +1,19 @@
 ```
-│                  ██████╗  ██████╗██╗  ██╗██╗██╗          
-│                  ██╔══██╗██╔════╝╚██╗██╔╝██║██║        
-│                  ██║  ██║██║      ╚███╔╝ ██║██║          
-│                  ██║  ██║██║      ██╔██╗ ██║██║        
-│                  ██████╔╝╚██████╗██╔╝ ██╗██║██║          
-│                  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝╚═╝    
-                     A N N U I T   C O E P T I S
-──────────────────────────────────────────────────────────────
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│                  ██████╗  ██████╗██╗  ██╗██╗██╗                              │
+│                  ██╔══██╗██╔════╝╚██╗██╔╝██║██║                              │
+│                  ██║  ██║██║      ╚███╔╝ ██║██║                              │
+│                  ██║  ██║██║      ██╔██╗ ██║██║                              │
+│                  ██████╔╝╚██████╗██╔╝ ██╗██║██║                              │
+│                  ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═╝╚═╝                              │
+│                   A N N U I T   C O E P T I S                                │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+╭─ dcxii@github ~ 
+╰─$ whoami
 dcxii@github.com
-──────────────────────────────────────────────────────────────
 ~/.config/user/profile.conf
 
 [USER_INFO]
@@ -16,9 +21,10 @@ username        = "DCXII"
 role            = "Cybersecurity & Web Systems Engineer"
 status          = "ONLINE"
 email           = "carpemoart.612@gmail.com"
-motto           = "Annuit Coeptis"
+motto           = "Temet Nosce"
 
-$ neofetch --backend ascii --tech-stack
+╭─ dcxii@github ~ 
+╰─$ neofetch --backend ascii --tech-stack
 
 [LANGUAGES & FRAMEWORKS]
 ├── Python        [███████████████████████░] 95%
@@ -35,14 +41,23 @@ $ neofetch --backend ascii --tech-stack
 ├── VS Code       [███████████████████████░] Expert
 ├── MySQL         [██████████████████░░░░░] Advanced
 └── Security Tools[███████████████████████░] Expert
+                   └── Wireshark • Nmap • Burp Suite
+                       Metasploit • Aircrack-ng
 
-~/public/contact/
+╭─ dcxii@github ~ 
+╰─$ ls ~/public/contact/
 
-[EMAIL]     carpemoart.612@gmail.com
-[LEETCODE]  https://leetcode.com/zidbis
-[PORTFOLIO] https://dcxii.github.io
+```
 
-$ fortune | cowsay -f tux
+[EMAIL]     [carpemoart.612@gmail.com](mailto:carpemoart.612@gmail.com)  
+[LEETCODE]  [https://leetcode.com/zidbis](https://leetcode.com/zidbis)  
+[PORTFOLIO] [https://dcxii.github.io](https://dcxii.github.io)
+
+```
+
+╭─ dcxii@github ~ 
+╰─$ fortune | cowsay -f tux
+
  ________________________________________
 / "The quieter you become, the more you \
 \ can hear."                            /
@@ -57,6 +72,7 @@ $ fortune | cowsay -f tux
     /'\_   _/`\
     \___)=(___/
 
-$ exit
+╭─ dcxii@github ~ 
+╰─$ exit
 [Process completed - Press any key to reconnect]
 ```
