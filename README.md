@@ -75,29 +75,6 @@ Educator — 1:1 and group instruction in CS, security, and web development
 
 ---
 
-### Activity Monitor
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dcxii&show_icons=true&theme=vue&hide_border=true&title_color=7B61FF&icon_color=7B61FF&bg_color=0D0D12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dcxii&theme=dark&background=0D0D12&hide_border=true&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcxii&layout=compact&theme=vue&hide_border=true&bg_color=0D0D12&title_color=7B61FF" width="50%" />
-</div>
-
----
-
-### System Status
-
-<div align="center" style="color:#dcd6ff; font-family: monospace;">
-  <p>🟢 <strong>In the Grid</strong> — Researching &amp; Building Smarter Systems</p>
-  <p>⚙️ <strong>Compiling Knowledge</strong> — Teaching, Learning, and Refining Skills</p>
-  <p>🟣 <strong>Running Defense Protocols</strong> — Exploring Cybersecurity at the Core</p>
-</div>
-
----
-
 ### Connect
 
 <div align="center">
