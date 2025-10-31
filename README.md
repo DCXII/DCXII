@@ -21,7 +21,7 @@ dcxii@github.com
 username        = "DCXII"
 role            = "Cybersecurity & Web Systems Engineer"
 status          = "ONLINE"
-email           = "carpemoart.612@gmail.com"
+email           = "carpemoarte.612@gmail.com"
 motto           = "Temet Nosce"
 
 ╭─(dcxii@github)-[~]
