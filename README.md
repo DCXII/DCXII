@@ -27,11 +27,11 @@ motto           = "Temet Nosce"
 
 ╭─(dcxii@github)-[~]
 ╰─$ ls -lah ~/public/repo/
-drwxrwxr-x 15 dcxii dcxii 4096 Oct 31 03:56 .
-drwx------ 50 dcxii dcxii 4096 Nov  1 03:56 ..
-drwxrwxr-x  1 dcxii dcxii 1806 Oct 30 20:01 DCXII
-drwxrwxr-x  1 dcxii dcxii 5783 Oct 31 08:27 new_year_timer
-drwxrwxr-x  1 dcxii dcxii   42 Oct 31 12:16 morse-cli
+drwxrwxr-x  6 dcxii dcxii 4096 Oct 31 03:56 .
+drwx------  3 dcxii dcxii 4096 Nov  1 03:56 ..
+drwxrwxr-x  2 dcxii dcxii 1806 Oct 30 20:01 DCXII
+drwxrwxr-x  2 dcxii dcxii 4096 Oct 31 12:16 morse-cli
+drwxrwxr-x  2 dcxii dcxii 5783 Oct 31 08:27 new_year_timer
 
 ╭─(dcxii@github)-[~]
 ╰─$ neofetch --backend ascii --tech-stack
