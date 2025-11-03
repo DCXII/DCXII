@@ -30,7 +30,7 @@ motto           = "Temet Nosce"
 drwxrwxr-x  6 dcxii dcxii 4096 Oct 31 03:56 .
 drwx------  3 dcxii dcxii 4096 Nov  4 03:56 ..
 drwxrwxr-x  2 dcxii dcxii 1806 Oct 30 20:01 DCXII
-drwxrwxr-x  2 dcxii dcxii 5783 Nov  4 01:53 LINC
+drwxrwxr-x  6 dcxii dcxii 4.0K Nov  4 01:53 LINC
 drwxrwxr-x  2 dcxii dcxii 4096 Oct 31 12:16 morse-cli
 drwxrwxr-x  2 dcxii dcxii 5783 Oct 31 08:27 new_year_timer
 
