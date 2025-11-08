@@ -27,8 +27,9 @@ motto           = "Temet Nosce"
 
 ╭─(dcxii@github)-[~]
 ╰─$ ls -lah ~/public/repo/
-drwxrwxr-x  6 dcxii dcxii 4096 Oct 31 03:56 .
-drwx------  3 dcxii dcxii 4096 Nov  4 03:56 ..
+drwxrwxr-x  7 dcxii dcxii 4096 Nov  9 04:59 .
+drwx------  3 dcxii dcxii 4096 Oct 31 03:56 ..
+drwxrwxr-x  4 dcxii dcxii 4096 Nov  9 04:59 CryptoSwissKnife
 drwxrwxr-x  2 dcxii dcxii 1806 Oct 30 20:01 DCXII
 drwxrwxr-x  6 dcxii dcxii 4.0K Nov  4 01:53 LINC
 drwxrwxr-x  2 dcxii dcxii 4096 Oct 31 12:16 morse-cli
