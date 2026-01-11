@@ -66,7 +66,7 @@ drwxrwxr-x  2 dcxii dcxii 5783 Oct 31 08:27 new_year_timer
 
 [EMAIL]     carpemoart.612@gmail.com
 [LEETCODE]  https://leetcode.com/zidbis
-[PORTFOLIO] https://dcxii.github.io
+[PORTFOLIO] https://github.com/DCXII
 
 ╭─(dcxii@github)-[~]
 ╰─$ fortune | cowsay -f dcxii
